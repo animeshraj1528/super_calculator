@@ -3,7 +3,11 @@
 def add(a, b):
     return a + b
 
+<<<<<<< HEAD
 def subtract(a,b):
+=======
+def subtract(a:float,b:float)->float:
+>>>>>>> feat/subtraction#1
     return a-b
 
 def multiply(a, b):
