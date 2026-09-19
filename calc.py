@@ -4,11 +4,16 @@ def add(a, b):
     return a + b
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 def subtract(a,b):
 =======
 def subtract(a:float,b:float)->float:
 >>>>>>> feat/subtraction#1
     return a-b
+=======
+def power(a, b):
+    return a * b
+>>>>>>> upstream/power
 
 def multiply(a, b):
     return a * b
